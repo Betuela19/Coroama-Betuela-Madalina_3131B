@@ -9,3 +9,14 @@ C:\Users\Emanuela\Desktop\BETI AN 3. SEM 1\PROIECTUL EGC\Proiect_EGC\ImmediateMo
 C:\Users\Emanuela\Desktop\BETI AN 3. SEM 1\PROIECTUL EGC\Proiect_EGC\ImmediateMode\obj\Debug\ImmediateMode.csproj.CopyComplete
 C:\Users\Emanuela\Desktop\BETI AN 3. SEM 1\PROIECTUL EGC\Proiect_EGC\ImmediateMode\obj\Debug\ImmediateMode.exe
 C:\Users\Emanuela\Desktop\BETI AN 3. SEM 1\PROIECTUL EGC\Proiect_EGC\ImmediateMode\obj\Debug\ImmediateMode.pdb
+C:\Users\Emanuela\Desktop\BETI AN 3. SEM 1\EGC\TEMA4\Coroama-Betuela-Madalina_3131B\ImmediateMode\bin\Debug\ImmediateMode.exe.config
+C:\Users\Emanuela\Desktop\BETI AN 3. SEM 1\EGC\TEMA4\Coroama-Betuela-Madalina_3131B\ImmediateMode\bin\Debug\ImmediateMode.exe
+C:\Users\Emanuela\Desktop\BETI AN 3. SEM 1\EGC\TEMA4\Coroama-Betuela-Madalina_3131B\ImmediateMode\bin\Debug\ImmediateMode.pdb
+C:\Users\Emanuela\Desktop\BETI AN 3. SEM 1\EGC\TEMA4\Coroama-Betuela-Madalina_3131B\ImmediateMode\bin\Debug\OpenTK.dll
+C:\Users\Emanuela\Desktop\BETI AN 3. SEM 1\EGC\TEMA4\Coroama-Betuela-Madalina_3131B\ImmediateMode\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Emanuela\Desktop\BETI AN 3. SEM 1\EGC\TEMA4\Coroama-Betuela-Madalina_3131B\ImmediateMode\bin\Debug\OpenTK.xml
+C:\Users\Emanuela\Desktop\BETI AN 3. SEM 1\EGC\TEMA4\Coroama-Betuela-Madalina_3131B\ImmediateMode\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Emanuela\Desktop\BETI AN 3. SEM 1\EGC\TEMA4\Coroama-Betuela-Madalina_3131B\ImmediateMode\obj\Debug\ImmediateMode.csprojAssemblyReference.cache
+C:\Users\Emanuela\Desktop\BETI AN 3. SEM 1\EGC\TEMA4\Coroama-Betuela-Madalina_3131B\ImmediateMode\obj\Debug\ImmediateMode.csproj.CopyComplete
+C:\Users\Emanuela\Desktop\BETI AN 3. SEM 1\EGC\TEMA4\Coroama-Betuela-Madalina_3131B\ImmediateMode\obj\Debug\ImmediateMode.exe
+C:\Users\Emanuela\Desktop\BETI AN 3. SEM 1\EGC\TEMA4\Coroama-Betuela-Madalina_3131B\ImmediateMode\obj\Debug\ImmediateMode.pdb
