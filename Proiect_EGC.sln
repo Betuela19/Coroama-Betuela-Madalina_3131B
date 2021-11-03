@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proiect_EGC", "Proiect_EGC\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmediateMode", "ImmediateMode\ImmediateMode.csproj", "{263DA929-3ECB-4932-A101-5DD8B325395C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laborator_4", "Laborator_4\Laborator_4.csproj", "{D4AF5F2D-E665-4109-979A-2E3851621C81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{263DA929-3ECB-4932-A101-5DD8B325395C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{263DA929-3ECB-4932-A101-5DD8B325395C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{263DA929-3ECB-4932-A101-5DD8B325395C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4AF5F2D-E665-4109-979A-2E3851621C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4AF5F2D-E665-4109-979A-2E3851621C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4AF5F2D-E665-4109-979A-2E3851621C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4AF5F2D-E665-4109-979A-2E3851621C81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
